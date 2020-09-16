@@ -7,7 +7,7 @@ pool:
 variables:
   subscription: 77a79272-05c8-42e3-9402-c3e129fd31b5
   resourceGroup: resourcegroup-tfstate
-  storageAccount: terraformtfstateskip
+  storageAccount: terraformtfstateskip1
   container: tfstate
   tfstateFile: terraform.tfstate
   anyTfChanges: false
